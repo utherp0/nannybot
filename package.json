@@ -10,7 +10,7 @@
   "author": "Ian 'Uther' Lawson",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "https": "^1.0.0",
